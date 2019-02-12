@@ -1,6 +1,6 @@
 # Manifiesto Datasketch Store
 
-Datasketch Store es una tienda de diseño de impacto que busca democratizar el acceso al conocimiento e informar a la ciudadanía sobre temas críticos de debate público en nuestra sociedad. Nuestros productos usan tecnologías abiertas que permiten visibilizar problemáticas sociales, como la igualdad de género, la lucha anticorrupción, los derechos humanos y el medio ambiente.
+Datasketch Store es una tienda de diseño con impacto social que busca democratizar el acceso al conocimiento e informar a la ciudadanía sobre temas críticos de debate público en nuestra sociedad. Nuestros productos usan tecnologías abiertas que permiten visibilizar problemáticas sociales, como la igualdad de género, la lucha anticorrupción, los derechos humanos y el medio ambiente.
 
 Somos un equipo multidisciplinar, diverso, creativo y feminista, conscientes de que el uso de datos y visualizaciones son un instrumento efectivo para activar a la ciudadanía y difundir mensajes que nos permitan tomar mejores decisiones como sociedad.
 
