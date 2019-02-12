@@ -1,4 +1,4 @@
-#Manifesto Datasketch Store 
+# Manifesto Datasketch Store 
 
 Datasketch Store is an impact design store that seeks to democratize access to knowledge and inform citizens about critical issues of public debate in our society. Our products use open technologies that make it possible to visualize social problems, such as gender equality, the fight against corruption, human rights and the environment.
 
